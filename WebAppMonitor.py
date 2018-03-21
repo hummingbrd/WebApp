@@ -2,6 +2,8 @@ __author__ = 'Hieu Nguyen hieu.nguyen@scc.com'
 __copyright__ = 'Copyright (c) 2017-2018 Hieu Nguyen'
 __version__ = '1.0.0'
 
+# Version 1.0.0
+
 import datetime
 import pandas as pd
 from azure.mgmt.monitor import MonitorManagementClient
